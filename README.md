@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1akwDUP2Uuf7lTp0M3Heg5&ust=1721758304563000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODYnNifu4cDFQAAAAAdAAAAABAE">
 
  <h1 align="center">Hi 👋, I'm Nirupam Chakraborty</h1>
 <h3 align="center">I am a passionate web developer from India</h3>
