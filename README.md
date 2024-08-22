@@ -5,6 +5,7 @@
 <h3 align="center">I am a passionate web developer from India</h3>
 
 - 🔭 I’m currently working on **Machine Learning Project using YOLO Algorithm**
+- 
 
 - 🌱 I’m currently learning **DSA, JAVA, Web Development**
 
