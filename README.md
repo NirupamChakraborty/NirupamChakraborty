@@ -2,7 +2,7 @@
 I'm a passionate web developer from INDIA🇮🇳.
 
 # 💫 About Me:
-🔭 I’m currently working on React project<br>👯 I’m looking to collaborate on MERN stack<br>🤝 I’m looking for help with good project ideas<br>🌱 I’m currently learning postgreSQL<br>💬 Ask me about the Web<br>⚡ Fun fact I can cook
+🔭 I’m currently working on React project<br>👯 I’m looking to collaborate on MERN stack<br>🤝 I’m looking for help with good project ideas<br>🌱 I’m currently learning postgreSQL<br>💬 Ask me about the Web<br>⚡ Fun fact I like tea more than coffee
 
 
 ## 🌐 Socials:
