@@ -1,6 +1,6 @@
 <h1>Hello, I'm Nirupam Chakraborty</h1>
 I'm a passionate web developer from INDIA🇮🇳.
-I love solving real world problems and build solution based applications. This helps me sharpen my skills
+I love solving real-world problems and building solution-based applications. This helps me sharpen my skills
 
 # 💫 About Me:
 🔭 I’m currently working on React project<br>👯 I’m looking to collaborate on MERN stack<br>🤝 I’m looking for help with good project ideas<br>🌱 I’m currently learning postgreSQL<br>💬 Ask me about the Web<br>⚡ Fun fact I like tea more than coffee
@@ -18,6 +18,14 @@ I love solving real world problems and build solution based applications. This h
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NirupamChakraborty&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
 
 
 
